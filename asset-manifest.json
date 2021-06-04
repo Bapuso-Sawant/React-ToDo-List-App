@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bapuso-Sawant/React-ToDo-List-App/static/css/main.ff7434e6.chunk.css",
+    "main.js": "/Bapuso-Sawant/React-ToDo-List-App/static/js/main.f8ae8fc1.chunk.js",
+    "main.js.map": "/Bapuso-Sawant/React-ToDo-List-App/static/js/main.f8ae8fc1.chunk.js.map",
+    "runtime-main.js": "/Bapuso-Sawant/React-ToDo-List-App/static/js/runtime-main.c1dca2ba.js",
+    "runtime-main.js.map": "/Bapuso-Sawant/React-ToDo-List-App/static/js/runtime-main.c1dca2ba.js.map",
+    "static/js/2.47318038.chunk.js": "/Bapuso-Sawant/React-ToDo-List-App/static/js/2.47318038.chunk.js",
+    "static/js/2.47318038.chunk.js.map": "/Bapuso-Sawant/React-ToDo-List-App/static/js/2.47318038.chunk.js.map",
+    "static/js/3.3c187dd7.chunk.js": "/Bapuso-Sawant/React-ToDo-List-App/static/js/3.3c187dd7.chunk.js",
+    "static/js/3.3c187dd7.chunk.js.map": "/Bapuso-Sawant/React-ToDo-List-App/static/js/3.3c187dd7.chunk.js.map",
+    "index.html": "/Bapuso-Sawant/React-ToDo-List-App/index.html",
+    "static/css/main.ff7434e6.chunk.css.map": "/Bapuso-Sawant/React-ToDo-List-App/static/css/main.ff7434e6.chunk.css.map",
+    "static/js/2.47318038.chunk.js.LICENSE.txt": "/Bapuso-Sawant/React-ToDo-List-App/static/js/2.47318038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1dca2ba.js",
+    "static/js/2.47318038.chunk.js",
+    "static/css/main.ff7434e6.chunk.css",
+    "static/js/main.f8ae8fc1.chunk.js"
+  ]
+}
